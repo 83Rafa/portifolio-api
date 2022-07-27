@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "App - Notícias do Futebol Feminino", 
+    "description": "Aplicativo de Notícias sobre futebol feminino.", 
+    "image": "https://83rafa.github.io/soccer-news-api/image/1.jpg", 
+    "link": "https://github.com/83Rafa/App-Nativo-Sobre-Futebol-Feminino-com-Android-Jetpack-e-Java" 
+  },
+  {
+    "id": 2,
+    "title": "Api para App Futebol Feminino ",
+    "description": "Api para transminir dados (nome, descrição, imagem e link para app sobre futebol feminino",
+    "image": "https://83rafa.github.io/soccer-news-api/image/2.jpg", 
+    "link": "https://github.com/83Rafa/soccer-news-api"
+  },
+  {
+    "id": 3,
+    "title": "Api para App de Simulação de Partidas",
+    "description": "Jogadora é aguardada esta semana em BH para exames médicos; Contrato irá até o fim de 2022",
+    "image": "", 
+    "link": "https://github.com/83Rafa/matches-simulator-api"
+  },
+  {
+    "id": 4,
+    "title": "App - Simulador de Partidas",
+    "description": "App que simula resultados aleatórios baseado na força de cada time",
+    "image": "", 
+    "link": "https://github.com/83Rafa/matches-simulator-api"
+  },
+  {
+    "id": 5,
+    "title": "App - Calculadora IMC",
+    "description": "App para Calculo de Índice de Massa Corporal",
+    "image": "", 
+    "link": "https://github.com/83Rafa/Calculadora"
+  },
+  {
+    "id": 6,
+    "title": "App - Business Card",
+    "description": "App que simula resultados aleatórios baseado na força de cada time",
+    "image": "", 
+    "link": "https://github.com/83Rafa/Businesscard"
+   },
+  {
+    "id": 7,
+    "title": "App - Portifólio",
+    "description": "App Para Apresentação de Repositório do GitHub",
+    "image": "", 
+    "link": ""
+  }
+]
